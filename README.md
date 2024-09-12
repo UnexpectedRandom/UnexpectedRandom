@@ -1,6 +1,6 @@
 # 👋 Hello, World! Welcome to My GitHub 🌍
 
-I'm [Your Name], a curious learner and coding enthusiast passionate about technology, problem-solving, and creative exploration. Here you’ll find my journey through programming, projects, and everything tech-related. 🚀
+I'm UnexpectedUser, a curious learner and coding enthusiast passionate about technology, problem-solving, and creative exploration. Here you’ll find my journey through programming, projects, and everything tech-related. 🚀
 
 ## 🔧 Technologies & Tools
 Here are some tools and technologies I’ve been working with recently:
