@@ -10,8 +10,8 @@ Here are some tools and technologies I’ve been working with recently:
 - 🥋 **Brazilian Jiu-Jitsu Enthusiast And Sometimes Boxing** (Yes, I love martial arts too!)
 
 ## 🏋️‍♂️ Personal Goals
-- 🏋️‍♂️ Building muscle and fitness while learning Muay Thai and BJJ!
-- 💻 Enhancing my skills in web development, AI, and cloud computing.
+- 🏋️‍♂️ Building muscle and fitness !
+- 💻 Enhancing my skills in Deep Learning and Sometimes MISC. Things in computer science.
 - 📚 Mastering German and expanding my linguistic horizons.
 
 ---
