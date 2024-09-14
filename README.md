@@ -16,4 +16,5 @@ Here are some tools and technologies I’ve been working with recently:
 
 ---
 
-💡 *"The only limit to your impact is your imagination and commitment."* — Tony Robbins
+"Victory is reserved for those who are willing to pay its price." — Sun Tzu, The Art of War
+
