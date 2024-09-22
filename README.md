@@ -7,7 +7,7 @@ Here are some tools and technologies I’ve been working with recently:
 
 - 🖥️ **Languages:** Python, C, Some Java
 - 🧠 **Machine Learning:** TensorFlow, PyTorch
-- 
+
 ## 🏋️‍♂️ Personal Goals
 - 🏋️‍♂️ Building muscle and fitness !
 - 💻 Enhancing my skills in Deep Learning and Sometimes MISC. Things in computer science.
