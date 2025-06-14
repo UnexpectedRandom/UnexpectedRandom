@@ -5,13 +5,14 @@ I'm UnexpectedUser, a curious learner and coding enthusiast passionate about tec
 ## 🔧 Technologies & Tools
 Here are some tools and technologies I’ve been working with recently:
 
-- 🖥️ **Languages:** Python, C, Some Java
-- 🧠 **Machine Learning:** TensorFlow, PyTorch
+- 🖥️ **Languages:** Python, Javascript, intermediate/begginer in Golang, some C
+- 🧠 **API development:** Flask, requests, FastAPI
+- 🤖 **Bot development:** Discord.js, Discord.py
 
 ## 🏋️‍♂️ Personal Goals
 - 🏋️‍♂️ Building muscle and fitness !
-- 💻 Enhancing my skills in Deep Learning and Sometimes MISC. Things in computer science.
-- 📚 Mastering German and expanding my linguistic horizons.
+- 💻 Enhancing my skills in Programming.
+- 📚 Mastering German, Russian and expanding my linguistic horizons.
 
 ---
 
