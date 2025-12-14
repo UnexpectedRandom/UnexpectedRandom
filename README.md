@@ -5,4 +5,7 @@
 ### Web security penetration testing
 
 ## Tryhackme Account:
-<img src="https://tryhackme-badges.s3.amazonaws.com/mkar.sec.png" alt="Your Image Badge" />
+
+<a href="https://tryhackme.com/p/mkar.sec">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/mkar.sec.png" alt="Description of badge">
+</a>
